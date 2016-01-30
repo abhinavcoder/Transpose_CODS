@@ -31,6 +31,14 @@ Our dashboard would have the following features:
 * Graphical representation of various statistics collected to give a deeper insight.
 * A heat map of the city depicting frequency of accidents of accidents , traffic congestion, pollution in that area.
 
+#### Dashboard : 
+* Mumbai Heatmap : 
+  ![Mumbai](https://raw.githubusercontent.com/abhinavcoder/Transpose_CODS/master/transpose-traffic-analyzer/HeatmapCreator/Images/Screenshots/Mumbai%20Dense.png)
+* Delhi Heatmap : 
+  ![Delhi](https://raw.githubusercontent.com/abhinavcoder/Transpose_CODS/master/transpose-traffic-analyzer/HeatmapCreator/Images/Screenshots/New%20Delhi%20Dense%20Points.png)
+* Delhi Accidents :
+  ![Delhi_Accidents](https://raw.githubusercontent.com/abhinavcoder/Transpose_CODS/master/transpose-traffic-analyzer/HeatmapCreator/Images/Screenshots/Selection_018.png)
+
 #### Current Data Sources :
 - **Facebook** - (*Extracted using Graph API, Search API* )
   - Facebook Pages
